@@ -5,6 +5,8 @@
 @import "music-list.css";
 @import "mini-player.css";
 @import "now-playing.css";
+@import "time-line.css";
+@import "music-controler.css";
 
 body {
   background-color: #f3f3f4;

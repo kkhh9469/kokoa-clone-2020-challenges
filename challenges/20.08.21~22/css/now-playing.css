@@ -10,7 +10,7 @@
   height: 200px;
   border-radius: 15px;
   margin-bottom: 50px;
-  box-shadow: 3px 10px 25px 15px rgba(15, 32, 34, 0.3);
+  box-shadow: 2px 5px 25px 5px rgba(15, 32, 34, 0.3);
 }
 
 .now-playing__title {
