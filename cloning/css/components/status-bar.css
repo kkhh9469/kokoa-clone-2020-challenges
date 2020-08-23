@@ -1,4 +1,6 @@
 .status-bar {
+  top: 0;
+  z-index: 2;
   display: flex;
   position: fixed;
   width: 100%;
@@ -6,6 +8,11 @@
   justify-content: center;
   padding: 5px 3px;
 }
+
+.status-bar--bg-color-white {
+  background-color: white;
+}
+
 .status-bar__column {
   width: 33%;
 }
